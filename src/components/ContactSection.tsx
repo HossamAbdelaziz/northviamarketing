@@ -35,7 +35,7 @@ export default function ContactSection() {
                         <span className="text-orange-500"> Let's Connect</span>
                     </h2>
                     <p className="text-lg text-gray-700 mb-6 leading-relaxed">
-                        Whether you're looking to scale your operations, boost your brand, or simplify your marketing—
+                        Whether you are looking to scale your operations, boost your brand, or simplify your marketing—
                         we are here to help. Fill out the form and our team will reach out within 24 hours.
                     </p>
                     <ul className="space-y-2 text-gray-800">

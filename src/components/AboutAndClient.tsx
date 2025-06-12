@@ -44,7 +44,7 @@ export default function AboutAndClient() {
                     </p>
                     <p className="mt-4 text-gray-800 text-lg">
                         You value true partnership, welcome fresh ideas, and are ready to invest in your legacy. If that sounds like you—
-                        we are the strategic partner you've been looking for.
+                        we are the strategic partner you have been looking for.
                     </p>
                 </motion.div>
             </div>
