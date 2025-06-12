@@ -31,11 +31,11 @@ export default function ContactSection() {
                 {/* Left Side – Pitch */}
                 <div>
                     <h2 className="text-4xl font-bold mb-4 text-blue-900">
-                        Your Growth Story Starts Here—
+                        Your Growth Story Starts Here&mdash;
                         <span className="text-orange-500"> Let's Connect</span>
                     </h2>
                     <p className="text-lg text-gray-700 mb-6 leading-relaxed">
-                        Whether you are looking to scale your operations, boost your brand, or simplify your marketing—
+                        Whether you are looking to scale your operations, boost your brand, or simplify your marketing&mdash;
                         we're here to help. Fill out the form and our team will reach out within 24 hours.
                     </p>
                     <ul className="space-y-2 text-gray-800">
