@@ -16,12 +16,12 @@ export default function AboutAndClient() {
                 >
                     <h2 className="text-3xl font-bold mb-4">About North Via Marketing</h2>
                     <p className="text-lg leading-relaxed mb-6">
-                        Founded by <strong>Ahmed Anwar, MBA</strong>, North Via Marketing is more than a marketing service—we’re your
+                        Founded by <strong>Ahmed Anwar, MBA</strong>, North Via Marketing is more than a marketing service—we're your
                         dedicated growth partner. With over 15 years of business experience—at FedEx, Orascom, and managing a
                         5-star restaurant—Ahmed brings deep operations expertise, merged with an MBA and a strong marketing career.
                     </p>
                     <p className="text-lg leading-relaxed">
-                        We help Ontario’s ambitious business owners streamline operations, reduce costs, and attract more customers—so
+                        We help Ontario's ambitious business owners streamline operations, reduce costs, and attract more customers—so
                         you can focus on what you do best.
                     </p>
                     <p className="mt-6 text-orange-400 font-semibold text-xl italic">
@@ -38,7 +38,7 @@ export default function AboutAndClient() {
                 >
                     <h3 className="text-2xl font-bold mb-4 text-blue-900">Are You Our Next Success Story?</h3>
                     <p className="text-gray-800 text-lg leading-relaxed">
-                        Our ideal client is a small to mid-sized business in Ontario, led by a proud, ambitious owner who is built something
+                        Our ideal client is a small to mid-sized business in Ontario, led by a proud, ambitious owner who has built something
                         worth celebrating. You have worked hard to grow your business—and you know it deserves to stand out, run smarter, and reach
                         new heights.
                     </p>

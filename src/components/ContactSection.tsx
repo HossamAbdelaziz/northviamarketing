@@ -36,7 +36,7 @@ export default function ContactSection() {
                     </h2>
                     <p className="text-lg text-gray-700 mb-6 leading-relaxed">
                         Whether you are looking to scale your operations, boost your brand, or simplify your marketing—
-                        we are here to help. Fill out the form and our team will reach out within 24 hours.
+                        we're here to help. Fill out the form and our team will reach out within 24 hours.
                     </p>
                     <ul className="space-y-2 text-gray-800">
                         <li className="before:content-['✔️'] before:mr-2">Tailored Growth Strategies</li>
