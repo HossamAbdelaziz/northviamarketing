@@ -9,6 +9,8 @@ import {
     FaLinkedinIn,
     FaMapMarkerAlt,
 } from 'react-icons/fa';
+import Link from 'next/link';
+
 
 export default function Footer() {
     return (
@@ -29,10 +31,10 @@ export default function Footer() {
                 <div className="space-y-2">
                     <h4 className="text-lg font-semibold mb-2">Quick Links</h4>
                     <ul className="text-gray-200 space-y-1">
-                        <li><a href="/" className="hover:underline">Home</a></li>
-                        <li><a href="#about" className="hover:underline">About</a></li>
-                        <li><a href="#packages" className="hover:underline">Services</a></li>
-                        <li><a href="#contact" className="hover:underline">Contact</a></li>
+                        <li><Link href="/" className="hover:underline">Home</Link></li>
+                        <li><Link href="#about" className="hover:underline">About</Link></li>
+                        <li><Link href="#packages" className="hover:underline">Services</Link></li>
+                        <li><Link href="#contact" className="hover:underline">Contact</Link></li>
                     </ul>
                 </div>
 

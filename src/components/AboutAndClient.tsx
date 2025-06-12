@@ -38,13 +38,13 @@ export default function AboutAndClient() {
                 >
                     <h3 className="text-2xl font-bold mb-4 text-blue-900">Are You Our Next Success Story?</h3>
                     <p className="text-gray-800 text-lg leading-relaxed">
-                        Our ideal client is a small to mid-sized business in Ontario, led by a proud, ambitious owner who’s built something
-                        worth celebrating. You’ve worked hard to grow your business—and you know it deserves to stand out, run smarter, and reach
+                        Our ideal client is a small to mid-sized business in Ontario, led by a proud, ambitious owner who is built something
+                        worth celebrating. You have worked hard to grow your business—and you know it deserves to stand out, run smarter, and reach
                         new heights.
                     </p>
                     <p className="mt-4 text-gray-800 text-lg">
                         You value true partnership, welcome fresh ideas, and are ready to invest in your legacy. If that sounds like you—
-                        we’re the strategic partner you've been looking for.
+                        we are the strategic partner you've been looking for.
                     </p>
                 </motion.div>
             </div>

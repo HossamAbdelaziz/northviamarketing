@@ -32,11 +32,11 @@ export default function ContactSection() {
                 <div>
                     <h2 className="text-4xl font-bold mb-4 text-blue-900">
                         Your Growth Story Starts Here—
-                        <span className="text-orange-500"> Let’s Connect</span>
+                        <span className="text-orange-500"> Let's Connect</span>
                     </h2>
                     <p className="text-lg text-gray-700 mb-6 leading-relaxed">
                         Whether you're looking to scale your operations, boost your brand, or simplify your marketing—
-                        we’re here to help. Fill out the form and our team will reach out within 24 hours.
+                        we are here to help. Fill out the form and our team will reach out within 24 hours.
                     </p>
                     <ul className="space-y-2 text-gray-800">
                         <li className="before:content-['✔️'] before:mr-2">Tailored Growth Strategies</li>
